@@ -1,4 +1,4 @@
 # Certificates
 * Solo learn
 * Linux
-* Git hub training
+* Git hub training and first day on github
